@@ -8,3 +8,8 @@
 .visited{
     background-color: gold;
 }
+
+.btn{
+    display: flex;
+    gap: 10px;
+}
